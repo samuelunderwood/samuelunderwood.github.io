@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "MECH 373 - Engineering Dynamics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2023-spring-teaching-1
+venue: "University of Nebraska - Lincoln"
+date: 2023-01-01
+location: "Omaha, Nebraska"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
 
-Heading 2
-======
 
-Heading 3
-======
