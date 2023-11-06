@@ -1,5 +1,5 @@
 ---
-title: "AREN 101 - Intro to Architectural Engineering
+title: "AREN 101 - Intro to Architectural Engineering"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
