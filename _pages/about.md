@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ------
-PhD student and acoustical consultant, studying acoustic conditions in restaurants, applications of BIM to HVAC noise prediction, auditory accessibility, and acoustic measurement standards. I received my Bachelor of Science and Master of Architectural Engineering degrees from the University of Nebraska - Lincoln.
+PhD Student and Acoustical Consultant, studying acoustic conditions in restaurants, applications of BIM to HVAC noise prediction, auditory accessibility, and acoustic measurement standards. I received my Bachelor of Science and Master of Architectural Engineering degrees from the University of Nebraska - Lincoln.
 
 In the News:
 ------
